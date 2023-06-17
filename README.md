@@ -13,3 +13,6 @@ Save-Time Efforts: Xposed Framework saves the time of the user in customizing th
 The Xposed Framework did not support Android 9.0 Pie officially, but a Reddit user has successfully ported it to the newer Android version. It can be easily installed on all the Android devices running Android 9.0 Pie. Interested users need to install Magisk Manager and then EdXposed mode to successfully start utilizing the Xposed Framework.
 
 Note: It is an unofficial build of the Xposed Framework. It might be risky to install it as it contains various bugs. It is even not open source. However, it is working fine on Android 9.0, but there’s always a scope for some issues. GizmoChina.com will not be held responsible for any damage to your data and device.
+
+
+//
